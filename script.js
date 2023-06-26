@@ -7,4 +7,5 @@ function decimalToBinary(decimal) {
   }
 
   return binary;
+
 }
